@@ -1,4 +1,4 @@
-# Task Manager
+# E-Commerce Site
 
 ## Table of Contents
 - [Description](#description)
