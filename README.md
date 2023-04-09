@@ -36,4 +36,4 @@ To install the application, download and install Node.js, npm run start, npm run
 If you have any questions or feedback about the application, please feel free to contact me at silvam@cwu.edu
 
 ## Video Link
-You can find a video demo of the application at [].
+You can find a video demo of the application at [https://drive.google.com/file/d/1DhvVhmciCfRdO3Uojs6J7nvRBePOmMne/view].
